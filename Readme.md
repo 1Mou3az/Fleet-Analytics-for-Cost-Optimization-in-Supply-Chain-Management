@@ -224,7 +224,7 @@ Created **20+ calculated metrics** including:
 
 
 
-📑 [FULL Detailed Report with Insights and Recommendations](Full_Analysis_Report.pdf)
+📑 [FULL Detailed Report with Insights and Recommendations](Full_Analysis_Report.md)
 ---
 
 ## 🎓 Skills Demonstrated
