@@ -11,7 +11,7 @@
 
 This project analyzes comprehensive fleet management data spanning **January 2018 - August 2019** for a logistics company operating across **51 US states**. Through advanced data engineering and visualization techniques, I uncovered critical operational inefficiencies and designed interactive dashboards that enabled strategic decision-making.
 
-### Business Impact
+### Key Findings
 - **💰 Net Profit Growth:** Identified drivers behind growth from $93.45K to $1.20M (+1,188.6%)
 - **📈 Gross Margin Improvement:** Analyzed cost and asset mix changes that lifted gross margin from 5.38% to 45.95% (+754%)
 - **⚙️ Cost Structure Optimization:** Quantified impact of 51.5% fixed cost reduction ($2M → $969K)
