@@ -181,7 +181,7 @@ Created **20+ calculated metrics** including:
 
 **Key Drivers:** Cost restructuring, preventive maintenance, route optimization, load efficiency.
 
----
+
 
 ### 🏆 Top Drivers
 | Driver | Fuel Efficiency | Fuel Cost/KM | Maintenance Cost/KM |
@@ -202,7 +202,7 @@ Created **20+ calculated metrics** including:
 - **$41,069** in maintenance costs (345% higher than fleet average)  
 - **Recommendation:** Implement mandatory driver ID logging system
 
----
+
 
 ### 🚗 Asset Performance
 **High-ROI Assets:**  
@@ -212,7 +212,7 @@ Created **20+ calculated metrics** including:
 **Assets to Retire:**  
 - **Tractor (Dry):** 36.3 L/100KM, $0.31/KM (economically unviable)  
 
----
+
 
 ### 🛠️ Key Strategic Recommendations
 - **Asset Management:** Immediate replacement of low-performing tractors; preventive maintenance schedule every 10,000 KM  
