@@ -1,4 +1,4 @@
-# Case Study: Fleet Turnaround & Operational Efficiency (2018–2019)
+# Comprehensive Fleet Management & Operational Performance Analysis (2018–2019)
 
 ## 1. The Big Picture: From Crisis to $1.2M Profit
 In just 20 months, this fleet underwent a radical transformation. While revenue grew by **50%**, the real story is in the bottom line: net profit skyrocketed by **1,188%** (from $93K to $1.2M). This wasn't just luck—it was a shift from "fixing things when they break" to a high-efficiency **Preventive Maintenance** model.
